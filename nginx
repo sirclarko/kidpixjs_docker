@@ -1,0 +1,25 @@
+<script>start("/Users/alex/Desktop/code/kidpix/nginx/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("css","css",1,96,"96 B",1741875183,"3/13/25, 9:13:03 AM");</script>
+<script>addRow("img","img",1,6144,"6.0 kB",1741875184,"3/13/25, 9:13:04 AM");</script>
+<script>addRow("js","js",1,384,"384 B",1741919299,"3/13/25, 9:28:19 PM");</script>
+<script>addRow("misc","misc",1,160,"160 B",1741875184,"3/13/25, 9:13:04 AM");</script>
+<script>addRow("node_modules","node_modules",1,3776,"3.7 kB",1741911681,"3/13/25, 7:21:21 PM");</script>
+<script>addRow("snd","snd",1,2112,"2.1 kB",1741875184,"3/13/25, 9:13:04 AM");</script>
+<script>addRow("sndmp3","sndmp3",1,2112,"2.1 kB",1741875184,"3/13/25, 9:13:04 AM");</script>
+<script>addRow("ssl","ssl",1,128,"128 B",1741900624,"3/13/25, 4:17:04 PM");</script>
+<script>addRow("static","static",1,288,"288 B",1741875184,"3/13/25, 9:13:04 AM");</script>
+<script>addRow("test","test",1,96,"96 B",1741902162,"3/13/25, 4:42:42 PM");</script>
+<script>addRow(".DS_Store",".DS_Store",0,10244,"10.0 kB",1741919789,"3/13/25, 9:36:29 PM");</script>
+<script>addRow("404.html","404.html",0,160,"160 B",1741875183,"3/13/25, 9:13:03 AM");</script>
+<script>addRow("build.sh","build.sh",0,700,"700 B",1741919049,"3/13/25, 9:24:09 PM");</script>
+<script>addRow("Dockerfile","Dockerfile",0,57,"57 B",1741918142,"3/13/25, 9:09:02 PM");</script>
+<script>addRow("Dockerfile.bak","Dockerfile.bak",0,108,"108 B",1741899546,"3/13/25, 3:59:06 PM");</script>
+<script>addRow("firebase.json","firebase.json",0,313,"313 B",1741875183,"3/13/25, 9:13:03 AM");</script>
+<script>addRow("index.html","index.html",0,8563,"8.4 kB",1741880267,"3/13/25, 10:37:47 AM");</script>
+<script>addRow("LICENSE","LICENSE",0,35149,"34.3 kB",1741875183,"3/13/25, 9:13:03 AM");</script>
+<script>addRow("NOTICE","NOTICE",0,12063,"11.8 kB",1741875183,"3/13/25, 9:13:03 AM");</script>
+<script>addRow("package-lock.json","package-lock.json",0,21792,"21.3 kB",1741875184,"3/13/25, 9:13:04 AM");</script>
+<script>addRow("package.json","package.json",0,799,"799 B",1741899495,"3/13/25, 3:58:15 PM");</script>
+<script>addRow("README.md","README.md",0,1495,"1.5 kB",1741875183,"3/13/25, 9:13:03 AM");</script>
+<script>addRow("server.js","server.js",0,383,"383 B",1741879732,"3/13/25, 10:28:52 AM");</script>
